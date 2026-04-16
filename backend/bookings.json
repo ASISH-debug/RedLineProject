@@ -1,0 +1,145 @@
+[
+  {
+    "busId": 1,
+    "busName": "RedLine Express",
+    "destination": "Hyderabad",
+    "fare": 650,
+    "id": 1,
+    "name": "Asish gottapu",
+    "seatNumbers": [
+      14
+    ],
+    "source": "Mumbai",
+    "travelDate": "2025-11-22"
+  },
+  {
+    "busId": 2,
+    "busName": "Metro Deluxe",
+    "destination": "Chennai",
+    "fare": 590,
+    "id": 2,
+    "name": "hfhhdddj",
+    "seatNumbers": [
+      23
+    ],
+    "source": "Hyderabad",
+    "travelDate": "2025-11-28"
+  },
+  {
+    "busId": 2,
+    "busName": "Metro Deluxe",
+    "destination": "Chennai",
+    "fare": 590,
+    "id": 3,
+    "name": "asish",
+    "seatNumbers": [
+      9
+    ],
+    "source": "Delhi",
+    "travelDate": "2025-11-29"
+  },
+  {
+    "busId": 2,
+    "busName": "Metro Deluxe",
+    "destination": "Chennai",
+    "fare": 590,
+    "id": 4,
+    "name": "sankeeth",
+    "seatNumbers": [
+      6
+    ],
+    "source": "Delhi",
+    "travelDate": "2025-11-28"
+  },
+  {
+    "busId": 2,
+    "busName": "Metro Deluxe",
+    "destination": "Pune",
+    "fare": 590,
+    "id": 5,
+    "name": "kushwanth",
+    "seatNumbers": [
+      5
+    ],
+    "source": "Delhi",
+    "travelDate": "2025-11-27"
+  },
+  {
+    "busId": 2,
+    "busName": "Metro Deluxe",
+    "destination": "Chennai",
+    "fare": 590,
+    "id": 6,
+    "name": "kushwanth",
+    "seatNumbers": [
+      21
+    ],
+    "source": "Mumbai",
+    "travelDate": "2025-11-27"
+  },
+  {
+    "busId": 1,
+    "busName": "RedLine Express",
+    "destination": "Bangalore",
+    "fare": 650,
+    "id": 7,
+    "name": "nandu",
+    "seatNumbers": [
+      7
+    ],
+    "source": "Mumbai",
+    "travelDate": "2025-11-26"
+  },
+  {
+    "busId": 1,
+    "busName": "RedLine Express",
+    "destination": "Pune",
+    "fare": 650,
+    "id": 8,
+    "name": "manikanta",
+    "seatNumbers": [
+      5
+    ],
+    "source": "Delhi",
+    "travelDate": "2025-11-28"
+  },
+  {
+    "busId": 1,
+    "busName": "RedLine Express",
+    "destination": "Hyderabad",
+    "fare": 650,
+    "id": 9,
+    "name": "Sravan S",
+    "seatNumbers": [
+      18
+    ],
+    "source": "Vijayawada",
+    "travelDate": "2025-11-21"
+  },
+  {
+    "busId": 2,
+    "busName": "Metro Deluxe",
+    "destination": "Vijayawada",
+    "fare": 590,
+    "id": 10,
+    "name": "rrdytdutdyrdtrsets",
+    "seatNumbers": [
+      2
+    ],
+    "source": "Chennai",
+    "travelDate": "2025-11-28"
+  },
+  {
+    "busId": 1,
+    "busName": "RedLine Express",
+    "destination": "Pune",
+    "fare": 650,
+    "id": 11,
+    "name": "asish gottapu",
+    "seatNumbers": [
+      1
+    ],
+    "source": "Mumbai",
+    "travelDate": "2025-11-21"
+  }
+]

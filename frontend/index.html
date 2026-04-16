@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>🚌 RedLine Bus Booking</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header><h1>🚌 RedLine Bus Booking</h1></header>
+
+  <main>
+    <form id="bookingForm" class="booking-form" novalidate>
+      <label>From:</label>
+      <select id="source" required>
+        <option value="">-- Select Source City --</option>
+        <option>Hyderabad</option><option>Delhi</option><option>Mumbai</option>
+        <option>Chennai</option><option>Bangalore</option><option>Pune</option>
+        <option>Kolkata</option><option>Vizag</option><option>Vijayawada</option>
+        <option>Coimbatore</option>
+      </select>
+
+      <label>To:</label>
+      <select id="destination" required>
+        <option value="">-- Select Destination City --</option>
+        <option>Hyderabad</option><option>Delhi</option><option>Mumbai</option>
+        <option>Chennai</option><option>Bangalore</option><option>Pune</option>
+        <option>Kolkata</option><option>Vizag</option><option>Vijayawada</option>
+        <option>Coimbatore</option>
+      </select>
+
+      <label>Date of Journey:</label>
+      <input type="date" id="date" required />
+
+      <button type="submit">Search Buses</button>
+    </form>
+
+    <div id="results" class="results"></div>
+  </main>
+
+  <!-- load script after DOM parse -->
+  <script src="./script.js" defer></script>
+</body>
+</html>
